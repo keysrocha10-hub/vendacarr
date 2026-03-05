@@ -1,5 +1,5 @@
 body {
-    color: white;
+    color: rgb(232, 226, 226);
     background-image: url(forehead_desktop_p-2-1920x440-1-695x440.jpg);
     background-size: cover;
     background-repeat: no-repeat;
@@ -17,9 +17,9 @@ body {
 }
 
 .card {
-    border: 1px solid #969191;
-    padding: 15px;
-    background-color: rgb(92, 145, 151);
+    border: 1px solid #b5b0b0;
+    padding: 13px;
+    background-color: rgb(136, 179, 184);
 }
 
 .card img {
